@@ -1,18 +1,24 @@
-# 🏗️ Turbin3 Solana Builder Bootcamp Assignments
+<div align="center">
+
+# 🏗️ Turbin3 Solana Builder Bootcamp
 
 Welcome to my repository for the **Turbin3 Solana Builder Bootcamp**. This repository contains all my weekly assignments, projects, and experiments conducted during the program.
+
+</div>
 
 ## 📁 Repository Structure
 
 This repository is organized by weeks and specific assignments:
 
+> **Note:** Every folder acts as an independent project and includes its own detailed README with specific setup instructions, test cases, and information. 👉 *Click on any completed assignment below to dive in.*
+
 | Week | Assignment | Description | Status |
 | :--- | :--- | :--- | :--- |
 | **0** | [Assignment 0](./assignment-0) | Environment setup, Anchor initialization, and basic program. | ✅ Completed |
 | **1** | [Assignment 1](./assignment-1) | Guessing Game | ✅ Completed |
-| **2** | Assignment 2 | (Coming Soon) | ⏳ Pending |
-| **3** | Assignment 3 | (Coming Soon) | ⏳ Pending |
-| **4** | Assignment 4 | (Coming Soon) | ⏳ Pending |
+| **2** | [Assignment 2](./assignment-2) | SPL Token & NFT Minting | ✅ Completed |
+| **3** | Assignment 3 | Coming Soon... | ⏳ Pending |
+| **4** | Assignment 4 | Coming Soon... | ⏳ Pending |
 
 ## 🚀 Official Resources
 
@@ -20,37 +26,9 @@ This repository is organized by weeks and specific assignments:
 - **Solana Documentation**: [docs.solana.com](https://docs.solana.com)
 - **Anchor Framework**: [www.anchor-lang.com](https://www.anchor-lang.com)
 
-## 🛠️ Development Setup
-
-### Prerequisites
-
-- [Rust](https://www.rust-lang.org/tools/install)
-- [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
-- [Anchor Version Manager (avm)](https://www.anchor-lang.com/docs/installation)
-- [Node.js & Yarn](https://nodejs.org/)
-
-### Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/aramkhx/Turbin3_assignments.git
-   cd Turbin3_assignments
-   ```
-
-2. **Navigate to an assignment**:
-   ```bash
-   cd assignment-0
-   ```
-
-3. **Build the program**:
-   ```bash
-   anchor build
-   ```
-
-4. **Run tests**:
-   ```bash
-   anchor test
-   ```
-
 ---
-*Built with ❤️ during the Turbin3 Solana Builder Bootcamp.*
+<div align="center">
+
+💡 *Built with curiosity during the Turbin3 Solana Builder Bootcamp*
+
+</div>
