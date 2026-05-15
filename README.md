@@ -17,7 +17,7 @@ This repository is organized by weeks and specific assignments:
 | **0** | [Assignment 0](./assignment-0) | Environment setup, Anchor initialization, and basic program. | ✅ Completed |
 | **1** | [Assignment 1](./assignment-1) | Guessing Game | ✅ Completed |
 | **2** | [Assignment 2](./assignment-2) | SPL Token & NFT Minting | ✅ Completed |
-| **3** | Assignment 3 | Coming Soon... | ⏳ Pending |
+| **3** | Assignment 3 | In Progress... | ⏳ Pending |
 | **4** | Assignment 4 | Coming Soon... | ⏳ Pending |
 
 ## 🚀 Official Resources
